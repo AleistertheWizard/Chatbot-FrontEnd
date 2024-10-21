@@ -16,23 +16,23 @@ To get a local copy up and running, follow these steps:
 
     bash
 
-git clone https://github.com/yourusername/chatbot-front-end.git
+git clone '''https://github.com/yourusername/chatbot-front-end.git'''
 
 Navigate to the project directory:
 
-bash
+'''bash
 
-cd chatbot-front-end
+cd chatbot-front-end'''
 
 Install dependencies:
 
-bash
+'''bash
 
-npm install
+npm install'''
 
 Start the development server:
 
-bash
+'''bash'''
 
     npm start
 
